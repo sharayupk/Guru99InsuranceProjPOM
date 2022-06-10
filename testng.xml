@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="InsuranceProjSuite">
+
+	<listeners>
+		<listener class-name="com.guru99Insurance.utilities.Reporting" />
+	</listeners>
+	
+	<test name="InsuranceProjTest">
+		<classes>
+			<!--<class name="com.guru99Insurance.testCases.BaseClass"/> -->
+			<!--<class name="com.guru99Insurance.testCases.LoginPageDDT" />-->
+			<class name="com.guru99Insurance.testCases.HomePageTest"/> 
+			<!--<class name="com.guru99Insurance.testCases.LoginPageTest"/> -->
+			<!--<class name="com.guru99Insurance.testCases.RetrieveQuotationPageTest"/> -->
+			<!--<class name="com.guru99Insurance.testCases.RequestQuotationPageTest"/> -->
+			<!--<class name="com.guru99Insurance.testCases.RegisterPageTest"/> -->
+		</classes>
+	</test>
+</suite> 

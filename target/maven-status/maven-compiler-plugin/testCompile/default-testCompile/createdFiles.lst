@@ -1,0 +1,15 @@
+com\guru99Insurance\testCases\LoginPageTest.class
+com\guru99Insurance\testCases\RetrieveQuotationPageTest.class
+com\guru99Insurance\utilities\XLUtils.class
+com\guru99Insurance\pageObjects\RegisterPage.class
+com\guru99Insurance\pageObjects\RetrieveQuotationPage.class
+com\guru99Insurance\testCases\HomePageTest.class
+com\guru99Insurance\testCases\RegisterPageTest.class
+com\guru99Insurance\utilities\Utils.class
+com\guru99Insurance\pageObjects\RequestQuotationPage.class
+com\guru99Insurance\testCases\LoginPageDDT.class
+com\guru99Insurance\utilities\Reporting.class
+com\guru99Insurance\testCases\BaseClass.class
+com\guru99Insurance\testCases\RequestQuotationPageTest.class
+com\guru99Insurance\pageObjects\LoginPage.class
+com\guru99Insurance\pageObjects\HomePage.class
